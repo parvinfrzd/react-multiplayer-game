@@ -21,6 +21,7 @@
     "react-scripts": "^2.1.3",
     "socket-controller": "^1.0.0",
     "socket.io": "^4.4.1",
+    "socket.io-client": "^4.4.1",
     "ts-node": "^10.7.0",
     "typescript": "^4.6.3",
     "web-vitals": "^2.1.4"
